@@ -2,8 +2,8 @@
 
 // Modify the paths to these class files as needed.
 require_once dirname(__FILE__)."/exchange_config.php";
-require_once dirname(__FILE__)."/exchange/calendar.php";
-require_once dirname(__FILE__)."/exchange/email.php";
+require_once dirname(__FILE__)."/classes/calendar.php";
+require_once dirname(__FILE__)."/classes/email.php";
 
 class Exchange
 {
