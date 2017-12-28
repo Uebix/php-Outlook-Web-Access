@@ -3,6 +3,8 @@
 Licence = OSL 3.0
 http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
 
+# php-Outlook-Web-Access is not more supported for free because it is a very old proof of concept with a lot of warnings and bad programming practices #
+
 ## Example: ##
 
 #### 1) Set parameters in exchange_config.php ####
